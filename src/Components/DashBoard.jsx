@@ -10,11 +10,7 @@ const DashBoard = ()=>{
         <div class="wrapper">
          <SideBar />
          <div id="content">
-
-                
-
         <Header />
-       
         <DashBoardContent />
         </div>
         </div>  
